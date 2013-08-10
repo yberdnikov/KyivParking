@@ -1,0 +1,123 @@
+/* No comment provided by engineer. */
+"%.0f" = "%.0f";
+
+/* Формат подписи масштабной линейки на карте для единиц измерения метры */
+"%.0f m" = "%.0f m";
+
+/* No comment provided by engineer. */
+"%.0f d." = "%.0f d.";
+
+/* No comment provided by engineer. */
+"%.0f d. %.0f h." = "%1$.0f d. %2$.0f h.";
+
+/* No comment provided by engineer. */
+"%.0f h." = "%.0f h.";
+
+/* No comment provided by engineer. */
+"%.0f h. %.0f min." = "%1$.0f h. %2$.0f min.";
+
+/* No comment provided by engineer. */
+"%.0f km" = "%.0f km";
+
+/* No comment provided by engineer. */
+"%.0f m" = "%.0f m";
+
+/* No comment provided by engineer. */
+"%.0f min." = "%.0f min.";
+
+/* Формат подписи масштабной линейки на карте для единиц измерения километры */
+"%.1f km" = "%.1f km";
+
+/* No comment provided by engineer. */
+"%.1f km" = "%.1f km";
+
+/* No comment provided by engineer. */
+"%1.f" = "%1.f";
+
+/* Действие на маршруте */
+"%@ km" = "%@ km";
+
+/* Префикс для списка автобусов в подзаголовке балуна остановки общ. транспорта */
+"B" = "B";
+
+/* Действие на маршруте */
+"Bear left" = "Bear left";
+
+/* Действие на маршруте */
+"Bear right" = "Bear right";
+
+/* Действие на маршруте */
+"Continue" = "Continue";
+
+/* Accessibility label for user location */
+"Current Location" = "Current Location";
+
+/* в. д. */
+"E" = "E";
+
+/* Действие на маршруте */
+"Enter circle" = "Join roundabout";
+
+/* Спуск с трассы */
+"Exit" = "Exit";
+
+/* Действие на маршруте */
+"Exit circle" = "Exit roundabout";
+
+/* The error message shown when a route has failed to be built between the given two points. */
+"Failed to build the route." = "Unable to create route";
+
+/* Route step title */
+"Finish" = "Destination";
+
+/* Действие на маршруте */
+"Left" = "Left";
+
+/* с. ш. */
+"N" = "N";
+
+/* Действие на маршруте */
+"Right" = "Right";
+
+/* ю. ш. */
+"S" = "S";
+
+/* Действие на маршруте */
+"Sharp left" = "Sharp left";
+
+/* Действие на маршруте */
+"Sharp right" = "Sharp right";
+
+/* Route step title */
+"Start" = "Start";
+
+/* Действие на маршруте */
+"Straight" = "Straight";
+
+/* Префикс для списка троллейбусов в подзаголовке балуна остановки общ. транспорта */
+"TB" = "TB";
+
+/* Префикс для списка трамваев в подзаголовке балуна остановки общ. транспорта */
+"TW" = "TW";
+
+/* Действие на маршруте */
+"U-Turn" = "U-Turn";
+
+/* з. д. */
+"W" = "W";
+
+/* No comment provided by engineer. */
+"d." = "d.";
+
+/* No comment provided by engineer. */
+"h." = "h.";
+
+/* No comment provided by engineer. */
+"km" = "km";
+
+/* No comment provided by engineer. */
+"m" = "m";
+
+/* No comment provided by engineer. */
+"min." = "min.";
+

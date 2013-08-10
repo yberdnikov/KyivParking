@@ -1,0 +1,123 @@
+/* No comment provided by engineer. */
+"%.0f" = "%.0f ";
+
+/* Формат подписи масштабной линейки на карте для единиц измерения метры */
+"%.0f m" = "%.0f m ";
+
+/* No comment provided by engineer. */
+"%.0f d." = "%.0f g.  ";
+
+/* No comment provided by engineer. */
+"%.0f d. %.0f h." = "%.0f g. %.0f s.  ";
+
+/* No comment provided by engineer. */
+"%.0f h." = "%.0f s. ";
+
+/* No comment provided by engineer. */
+"%.0f h. %.0f min." = "%.0f s. %.0f dk. ";
+
+/* No comment provided by engineer. */
+"%.0f km" = "%.0f km ";
+
+/* No comment provided by engineer. */
+"%.0f m" = "%.0f m ";
+
+/* No comment provided by engineer. */
+"%.0f min." = "%.0f dk. ";
+
+/* Формат подписи масштабной линейки на карте для единиц измерения километры */
+"%.1f km" = "%.1f km ";
+
+/* No comment provided by engineer. */
+"%.1f km" = "%.1f km ";
+
+/* No comment provided by engineer. */
+"%1.f" = "%1.f ";
+
+/* Действие на маршруте */
+"%@ km" = "%@ km.  ";
+
+/* Префикс для списка автобусов в подзаголовке балуна остановки общ. транспорта */
+"B" = "O ";
+
+/* Действие на маршруте */
+"Bear left" = "Hafif sol ";
+
+/* Действие на маршруте */
+"Bear right" = "Hafif sağ ";
+
+/* Действие на маршруте */
+"Continue" = "Devam et ";
+
+/* Accessibility label for user location */
+"Current Location" = "Konumum  ";
+
+/* в. д. */
+"E" = " d.b. ";
+
+/* Действие на маршруте */
+"Enter circle" = "Kavşak";
+
+/* Спуск с трассы */
+"Exit" = "Çıkış ";
+
+/* Действие на маршруте */
+"Exit circle" = "Kavşaktan çıkış";
+
+/* The error message shown when a route has failed to be built between the given two points. */
+"Failed to build the route." = "Rota hesaplanamadı";
+
+/* Route step title */
+"Finish" = "Varış noktası";
+
+/* Действие на маршруте */
+"Left" = "Sola ";
+
+/* с. ш. */
+"N" = " k.e. ";
+
+/* Действие на маршруте */
+"Right" = "Sağa ";
+
+/* ю. ш. */
+"S" = " g.e. ";
+
+/* Действие на маршруте */
+"Sharp left" = "Tam sol ";
+
+/* Действие на маршруте */
+"Sharp right" = "Tam sağ ";
+
+/* Route step title */
+"Start" = "Başla";
+
+/* Действие на маршруте */
+"Straight" = "Düz ";
+
+/* Префикс для списка троллейбусов в подзаголовке балуна остановки общ. транспорта */
+"TB" = "Tr ";
+
+/* Префикс для списка трамваев в подзаголовке балуна остановки общ. транспорта */
+"TW" = "Т ";
+
+/* Действие на маршруте */
+"U-Turn" = "U dönüşü ";
+
+/* з. д. */
+"W" = " b.b. ";
+
+/* No comment provided by engineer. */
+"d." = "g.  ";
+
+/* No comment provided by engineer. */
+"h." = "s. ";
+
+/* No comment provided by engineer. */
+"km" = "km ";
+
+/* No comment provided by engineer. */
+"m" = "m ";
+
+/* No comment provided by engineer. */
+"min." = "dk. ";
+
